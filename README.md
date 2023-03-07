@@ -5,11 +5,11 @@ API_TOKEN = 'TOKEN от самого бота'<br>
 admins = [Айди администраторов] => int<br>
 <br><br>
 Требовании для запуска:<br>
-1.```virtualenv venv```<br>
-2.```source /home/marselle/Lessons/Django/Bot_admin/venv/bin/activate```<br>
-3.```pip install -r requirements.txt```<br>
-4.```python3 manage.py makemigrations```<br>
-5.```python3 manage.py migrate```<br>
+1. ```virtualenv venv``` <br>
+2. ```source /home/marselle/Lessons/Django/Bot_admin/venv/bin/activate```  <br>
+3. ```pip install -r requirements.txt``` <br>
+4. ```python3 manage.py makemigrations```  <br>
+5. ```python3 manage.py migrate``` <br>
 <br><br>
 
 Run Django: ```python3 manage.py runserver```<br>
